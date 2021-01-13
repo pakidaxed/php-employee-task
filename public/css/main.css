@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.form-box {
+    width: 500px;
+    margin: 20px auto 50px auto;
+}
+
+.form-block {
+    padding: 10px 0;
+}
+
+input[type=submit] {
+    background-color: orangered;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+}
+
+.employees-box {
+    margin: 0 auto;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.employees-block {
+    width: 300px;
+}
+
+.console-box {
+    margin: 0 auto;
+    padding: 30px 0 10px 0;
+    text-align: center;
+    color: orangered;
+}
+
